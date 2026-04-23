@@ -1,7 +1,7 @@
 ---
-**Name:** Harman  
-**UID:** 24BCF10046  
-**Section:** 24BCF -1(B)  
+Name: Harman  
+UID: 24BCF10046  
+Section: 24BCF -1(B)  
 
 ---
 
